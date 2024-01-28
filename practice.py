@@ -1,4 +1,4 @@
-
+from another_file import feature2
 
 
 def feature():
@@ -10,6 +10,7 @@ def feature():
 
 def main():
     feature()
+    feature2()
 
 
 
