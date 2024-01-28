@@ -1,9 +1,16 @@
-print("hello world")
-print("v1.0.1")
+
+
+
+def feature():
+    print("hello world")
+    print("v1.2.1")
+
+
 
 
 def main():
-    print("status")
+    feature()
+
 
 
 if __name__ == "__main__":
